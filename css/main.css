@@ -1,0 +1,46 @@
+/* Inserta tu CSS aqui */
+.contenedor{
+    background-color: #8edd64;
+    height: 450px;
+    width: 1000px;
+    padding: 25px;
+}
+
+.caja{
+    border: solid 1px white;
+    width: 980px;
+    height: 440px; 
+    position: ;
+}
+
+.arco1{
+    border: solid 1px white;
+    height: 200px;
+    width: 120px;
+    position: relative;
+    top: 110px;
+    
+}
+.arco2{
+    border: solid 1px white;
+    height: 200px;
+    width: 120px;
+    position: absolute;
+    right: 0px;
+    bottom: 126px;
+}
+
+.centro{
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+    margin-left: 420px;
+    position: relative;
+    bottom: 130px;
+    border: solid 1px white;
+}
+
+.pelota{
+    position: absolute;
+    left: 50px;
+}
